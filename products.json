@@ -1,6 +1,6 @@
 [
     {
-        "productname": "",
+        "productname": "1",
         "price": "",
         "instock": "",
         "category": "",
@@ -8,11 +8,12 @@
         "description": ""
     },
     {
-        "productname": "",
+        "productname": "2",
         "price": "",
         "instock": "",
         "category": "",
         "picture": "",
-        "description": ""
+        "description_short": "",
+        "description_long": ""
     }
 ]
