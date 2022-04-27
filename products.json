@@ -1,19 +1,47 @@
 [
     {
         "productname": "1",
-        "price": "",
+        "price": "1,-",
         "instock": "",
         "category": "",
         "picture": "",
-        "description": ""
+        "description_short": "Short description",
+        "description_long": "Long Description"
     },
     {
         "productname": "2",
-        "price": "",
+        "price": "1,-",
         "instock": "",
         "category": "",
         "picture": "",
-        "description_short": "",
-        "description_long": ""
+        "description_short": "Short description",
+        "description_long": "Long Description"
+    },
+    {
+        "productname": "3",
+        "price": "1,-",
+        "instock": "",
+        "category": "",
+        "picture": "",
+        "description_short": "Short description",
+        "description_long": "Long Description"
+    },
+    {
+        "productname": "4",
+        "price": "1,-",
+        "instock": "",
+        "category": "",
+        "picture": "",
+        "description_short": "Short description",
+        "description_long": "Long Description"
+    },
+    {
+        "productname": "5",
+        "price": "1,-",
+        "instock": "",
+        "category": "",
+        "picture": "",
+        "description_short": "Short description",
+        "description_long": "Long Description"
     }
 ]
