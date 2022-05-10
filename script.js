@@ -1,4 +1,20 @@
 
+
+// Variables 
+
+Cart = [
+    Totalprice = 0,
+    ItemsNumber = 0,
+    ItemsID = [""]
+]
+
+Cart__bttn = document.querySelector('.Cart--button')
+    //Cart__bttn.addEventListener('click', /* A Function */);
+    Cart__bttn.textcontent = `${ItemsNumber}`
+
+
+// End 
+
 const fetchPromise = fetch('products.json')
 
 fetchPromise
@@ -19,13 +35,36 @@ fetchPromise
             <h2 class="article--card__name">${i.productname}</h2>
             <p class="article--card__info">${i.description_short}</p>
             <h3 class="article-card__price">${i.price}</h3><img src="" alt="Add to cart">
+            <button class="article--card__button">Add to Cart</button>
             </li>`
 
         });
         document.querySelector('.ul--cards').innerHTML = output
 
+        articleCard__bttn = document.querySelectorAll('.article--card__button').forEach( i =>{
+            i.addEventListener('click', addtocart)
+        })
 
     })
     .catch( error => {
         console.error(`Error: ${error}`);
     });
+
+
+
+
+    
+
+    function addtocart(){
+    
+        //Add the productID form the JSON to the cart array.
+        //Update the cart array with the correct info (PriceTotal and number of items)
+        ItemsNumber = ItemsNumber+1;
+        console.log(ItemsNumber)
+
+        
+
+
+
+
+    }

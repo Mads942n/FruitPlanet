@@ -6,7 +6,8 @@
         "category": "",
         "picture": "",
         "description_short": "Short description",
-        "description_long": "Long Description"
+        "description_long": "Long Description",
+        "productID": "1"
     },
     {
         "productname": "2",
@@ -15,7 +16,8 @@
         "category": "",
         "picture": "",
         "description_short": "Short description",
-        "description_long": "Long Description"
+        "description_long": "Long Description",
+        "productID": "2"
     },
     {
         "productname": "3",
@@ -24,7 +26,8 @@
         "category": "",
         "picture": "",
         "description_short": "Short description",
-        "description_long": "Long Description"
+        "description_long": "Long Description",
+        "productID": "3"
     },
     {
         "productname": "4",
@@ -33,7 +36,8 @@
         "category": "",
         "picture": "",
         "description_short": "Short description",
-        "description_long": "Long Description"
+        "description_long": "Long Description",
+        "productID": "4"
     },
     {
         "productname": "5",
@@ -42,6 +46,7 @@
         "category": "",
         "picture": "",
         "description_short": "Short description",
-        "description_long": "Long Description"
+        "description_long": "Long Description",
+        "productID": "5"
     }
 ]
