@@ -1,12 +1,12 @@
 [
     {
-        "productname": "1",
-        "price": "1,-",
+        "productname": "Dragonfruit",
+        "price": "35DKK",
         "instock": "",
         "category": "",
-        "picture": "",
-        "description_short": "Short description",
-        "description_long": "Long Description",
+        "picture": "dragonfruit.png",
+        "description_short": "A tropical fruit that is very sweet",
+        "description_long": "Dragon fruit is a tropical fruit that has become increasingly popular in recent years. Though people primarily enjoy it for its unique look and taste, evidence suggests it may provide health benefits as well.",
         "productID": "1"
     },
     {
@@ -14,7 +14,7 @@
         "price": "1,-",
         "instock": "",
         "category": "",
-        "picture": "",
+        "picture": "dragonfruit.png",
         "description_short": "Short description",
         "description_long": "Long Description",
         "productID": "2"
@@ -24,7 +24,7 @@
         "price": "1,-",
         "instock": "",
         "category": "",
-        "picture": "",
+        "picture": "dragonfruit.png",
         "description_short": "Short description",
         "description_long": "Long Description",
         "productID": "3"
@@ -34,7 +34,7 @@
         "price": "1,-",
         "instock": "",
         "category": "",
-        "picture": "",
+        "picture": "dragonfruit.png",
         "description_short": "Short description",
         "description_long": "Long Description",
         "productID": "4"
@@ -44,7 +44,7 @@
         "price": "1,-",
         "instock": "",
         "category": "",
-        "picture": "",
+        "picture": "dragonfruit.png",
         "description_short": "Short description",
         "description_long": "Long Description",
         "productID": "5"
