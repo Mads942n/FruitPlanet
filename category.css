@@ -1,0 +1,28 @@
+body {
+    background-image: url(Fruits.png);
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header__logo {
+    max-width: 50px;
+}
+
+.header__search {
+    max-height: 50px;
+    box-sizing: border-box;
+}
+
+.header__cart {
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+}
+
+.category {
+    display: flex;
+    flex-direction: row;
+}
